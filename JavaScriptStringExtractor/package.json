@@ -1,0 +1,12 @@
+{
+  "name": "JavaScriptStringExtractor",
+  "version": "0.0.1",
+  "description": "Extracts all strings/comments from JavaScript source code.",
+  "author": "David Anson (http://dlaa.me/)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "esprima": "1.2.2",
+    "glob": "4.0.0"
+  }
+}
