@@ -1,0 +1,13 @@
+{
+  "name": "HtmlStringExtractor",
+  "version": "0.0.1",
+  "description": "Extracts all text/strings/comments from HTML files and URLs.",
+  "author": "David Anson (http://dlaa.me/)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "htmlparser2": "3.7.2",
+    "glob": "4.0.0",
+    "request": "2.36.0"
+  }
+}
